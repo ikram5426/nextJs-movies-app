@@ -12,7 +12,6 @@ if(visible==='false'){
   toggleButton.setAttribute("aria-expanded", false);
 
 }
-console.log(toggleButton.getAttribute('aria-expanded'));
 })
 
 
